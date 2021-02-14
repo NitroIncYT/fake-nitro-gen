@@ -1,6 +1,6 @@
 module.exports = {
     // ..
-    token: "NjA2NTkyMzU1NjMzNTk0Mzg4.XfKBWw.hGuURdSZoCIpJ69BTA5GGy3uANU",
+    token: "ODEwNTU5ODkxNzkzMzc5MzY5.YClauQ.uD65Iq-3vY62YvtyFrQFd7M-2Ak",
     // ..
     genClassic: "654725705925525505",
     // ..
